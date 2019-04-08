@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "message"
+git remote add origin https://github.com/oanaspalatelu/JavaCourse.git
+git push origin master
+
+
+Maven - managementul librariilor/dependintelor; tool de build
